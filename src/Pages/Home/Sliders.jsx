@@ -42,9 +42,9 @@ const Sliders = () => {
         modules={[Navigation, Pagination]}
         className="mySwiper"
       >
-        {sliders.map((slider) => (
+        {sliders.map((slider, i) => (
           <SwiperSlide>
-            <Slide key={slider.id} slider={slider} />
+            <Slide key={i} slider={slider} />
           </SwiperSlide>
         ))}
         <div className="flex justify-center gap-12 mb-16">
