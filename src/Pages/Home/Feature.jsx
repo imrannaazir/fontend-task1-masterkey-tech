@@ -12,7 +12,7 @@ const Feature = () => {
         <div class="flex-grow border-t border-black  border-dashed"></div>
       </div>
       <h3 className="text-center text-2xl text-accent mb-28">
-        Here will be the text
+        Make your business Awesome{" "}
       </h3>
 
       {/* features */}
@@ -26,9 +26,9 @@ const Feature = () => {
                 alt=""
               />
             </div>
-            <p className="text-lg my-5">Text 1</p>
+            <p className="text-lg my-5">Run Best Ad</p>
             <p className="bg-secondary text-white w-full rounded-full py-2 text-lg">
-              hello 1
+              Advertisement
             </p>
           </div>
         </div>
@@ -42,9 +42,9 @@ const Feature = () => {
                 alt=""
               />
             </div>
-            <p className="text-lg my-5">Text 1</p>
+            <p className="text-lg my-5">Reach most targeted User</p>
             <p className="bg-secondary text-white w-full rounded-full py-2 text-lg">
-              hello 1
+              Impressions
             </p>
           </div>
         </div>
@@ -58,9 +58,9 @@ const Feature = () => {
                 alt=""
               />
             </div>
-            <p className="text-lg my-5">Text 1</p>
+            <p className="text-lg my-5">Research your business</p>
             <p className="bg-secondary text-white w-full rounded-full py-2 text-lg">
-              hello 1
+              Rich Algorithm
             </p>
           </div>
         </div>

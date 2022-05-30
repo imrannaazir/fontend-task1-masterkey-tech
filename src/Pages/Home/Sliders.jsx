@@ -25,7 +25,9 @@ const Sliders = () => {
   const nextRef = useRef(null);
   return (
     <div className="bg-neutral shadow-2xl">
-      <h1 className="text-secondary text-4xl text-center py-16">Title 1</h1>
+      <h1 className="text-secondary text-4xl text-center py-16">
+        What our clients say
+      </h1>
       <Swiper
         cssMode={true}
         navigation={true}

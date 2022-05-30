@@ -5,18 +5,15 @@ const Banner = () => {
     <div class="hero min-h-screen bg-neutral">
       <div class="hero-content flex-col lg:flex-row-reverse">
         <img
-          src="https://api.lorem.space/image/movie?w=260&h=400"
+          src="https://i.ibb.co/rfnLqS4/Banaer.png"
           alt=""
-          class="max-w-sm rounded-lg shadow-2xl"
+          class=" w-[500px]"
         />
         <div>
-          <h1 class="text-5xl font-bold">Box Office News!</h1>
+          <h1 class="text-5xl font-bold">Best Solution for Ads</h1>
           <p class="py-6">
-            Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda
-            excepturi exercitationem quasi. In deleniti eaque aut repudiandae et
-            a id nisi.
+            Helping Our Clients Drive Over $5.3B in Annual Revenue
           </p>
-          <button class="btn btn-primary">Get Started</button>
         </div>
       </div>
     </div>

@@ -3,7 +3,7 @@ import React from "react";
 const Analytics = () => {
   return (
     <div className="bg-secondary pt-14">
-      <p className="text-center text-white text-4xl">Title</p>
+      <p className="text-center text-white text-4xl">Analytics</p>
       <div className=" flex justify-evenly text-white py-24">
         <div class="avatar placeholder w-[25%] bg-transparent border-2 border-dashed rounded-full">
           <div class=" rounded-full w-full">
