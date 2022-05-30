@@ -21,7 +21,7 @@ const Sliders = () => {
       .then((data) => setSliders(data));
   }, []);
   return (
-    <div className="bg-neutral">
+    <div className="bg-neutral shadow-2xl">
       <h1 className="text-secondary text-4xl text-center py-16">Title 1</h1>
       <Swiper
         cssMode={true}
