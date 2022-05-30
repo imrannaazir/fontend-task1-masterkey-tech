@@ -1,4 +1,5 @@
 import React from "react";
+import AddFormat from "./AddFormat";
 import Analytics from "./Analytics";
 import Banner from "./Banner";
 import Feature from "./Feature";
@@ -12,6 +13,7 @@ const Home = () => {
       <Navbar />
       <Banner />
       <Feature />
+      <AddFormat />
       <Analytics />
       <Sliders />
       <Footer />
