@@ -3,6 +3,7 @@ import Analytics from "./Analytics";
 import Banner from "./Banner";
 import Feature from "./Feature";
 import Navbar from "./Navbar";
+import Sliders from "./Sliders";
 
 const Home = () => {
   return (
@@ -11,6 +12,7 @@ const Home = () => {
       <Banner />
       <Feature />
       <Analytics />
+      <Sliders />
     </div>
   );
 };
