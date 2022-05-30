@@ -52,7 +52,7 @@ const AddFormat = () => {
       {/* ads */}
       {openAd == 1 && (
         <div className="w-full flex px-[10%] gap-[10%] h-full py-16">
-          <img src="https://api.lorem.space/image/movie?w=260&h=400" alt="" />
+          <img src="https://i.ibb.co/CQ9NHww/POPOUT.jpg" alt="" />
           <div className="flex flex-col justify-around">
             <div>
               {" "}
@@ -78,7 +78,7 @@ const AddFormat = () => {
       )}
       {openAd == 2 && (
         <div className="w-full flex px-[10%] gap-[10%] h-full py-16">
-          <img src="https://api.lorem.space/image/movie?w=260&h=400" alt="" />
+          <img src="https://i.ibb.co/BcTRZYb/bannerad.jpg" alt="" />
           <div className="flex flex-col justify-around">
             <div>
               {" "}
@@ -104,7 +104,7 @@ const AddFormat = () => {
 
       {openAd == 3 && (
         <div className="w-full flex px-[10%] gap-[10%] h-full py-16">
-          <img src="https://api.lorem.space/image/movie?w=260&h=400" alt="" />
+          <img src="https://i.ibb.co/Z1gZbgs/native.jpg" alt="" />
           <div className="flex flex-col justify-around">
             <div>
               {" "}
@@ -132,7 +132,7 @@ const AddFormat = () => {
 
       {openAd == 4 && (
         <div className="w-full flex px-[10%] gap-[10%] h-full py-16">
-          <img src="https://api.lorem.space/image/movie?w=260&h=400" alt="" />
+          <img src="https://i.ibb.co/16P8752/skim.jpg" alt="" />
           <div className="flex flex-col justify-around">
             <div>
               {" "}
