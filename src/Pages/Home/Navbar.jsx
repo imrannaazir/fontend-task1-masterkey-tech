@@ -10,11 +10,11 @@ const Navbar = () => {
           <a href="/" className="text-primary">
             Home
           </a>
-          <a href="/">Advertisers</a>
-          <a href="/">Publishers</a>
-          <a href="/">Influencers</a>
-          <a href="/">Blog</a>
-          <a href="/">Contact us</a>
+          <a href="#">Advertisers</a>
+          <a href="#">Publishers</a>
+          <a href="#">Influencers</a>
+          <a href="#">Blog</a>
+          <a href="#">Contact us</a>
         </div>
         <div className="bg-base-100 rounded-full px-4 py-2 flex gap-2 shadow-lg">
           <button className="btn button btn-ghost rounded-full">Login</button>
