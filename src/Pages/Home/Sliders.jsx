@@ -43,8 +43,8 @@ const Sliders = () => {
         className="mySwiper"
       >
         {sliders.map((slider, i) => (
-          <SwiperSlide>
-            <Slide key={i} slider={slider} />
+          <SwiperSlide key={i}>
+            <Slide slider={slider} />
           </SwiperSlide>
         ))}
         <div className="flex justify-center gap-12 mb-16">

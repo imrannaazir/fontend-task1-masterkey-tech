@@ -2,7 +2,6 @@ import React, { useState } from "react";
 
 const AddFormat = () => {
   const [openAd, setOpenAd] = useState(1);
-  console.log(openAd);
   return (
     <div className="bg-neutral">
       {/*section title */}
